@@ -1,0 +1,70 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 2rem;
+    max-width: 90%;
+    margin: auto;
+}
+body {
+      max-width:90%;
+      margin: 1rem auto;
+      border: 1px solid gray;
+      font-size: 3rem;
+}
+h1 {
+    font-size: 0.8rem;
+}
+
+.section1{
+    font-size: 1rem;
+}
+.section2{
+    font-size: 2rem;
+}
+.section2 p,
+h3 {
+    font-size: 0.5em;
+}
+    
+.section3{
+    font-size: 2rem;
+}
+.section3 .box1{
+    max-width: 5rem;
+    border: 1px solid red;
+}
+.section3 .box2{
+    max-width: 5em;
+    border: 1px solid red;
+}
+nav{
+    min-height: 10vh;
+    max-width: 100%;
+    border: 1px solid purple;
+    font-size: 1rem;
+}
+
+main{
+    min-height: 80vh;
+    border: 1px solid blue;
+}
+section .box3{
+    max-width: 90%;
+    margin: auto;
+    text-align: center;
+}
+section .box3 img{
+    max-width: 100%;
+    min-height: 4rem;
+    margin: 1rem auto;
+    text-align: center;
+}
+footer{
+    min-height: 10vh;
+    border: 1px solid black;
+    font-size: 1rem;
+}
